@@ -1,0 +1,1 @@
+Added Use case diagram to repository
